@@ -30,8 +30,9 @@ def monopoly_with_third_tier
       key2:1,
       key3:1,
       key4:1,
-      names:1
+      key1:2
     }
+      names:1
     }
   }
 end
