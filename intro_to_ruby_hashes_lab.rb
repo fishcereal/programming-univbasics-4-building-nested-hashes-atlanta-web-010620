@@ -52,7 +52,7 @@ def monopoly_with_fourth_tier
       one_piece_owned:25
     },
     names:{
-      reading_railroad: {:mortgage_value => "$100"},
+      reading_railroad: {"mortgage_value" => "$100"},
       pennsylvania_railroad: {mortgage_value:"$"},
       b_and_o_railroad: {mortgage_value:"$"},
       shortline_railroad:{mortgage_value:"$"}
