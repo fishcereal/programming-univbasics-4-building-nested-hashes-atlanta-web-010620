@@ -29,8 +29,8 @@ def monopoly_with_third_tier
     rent_in_dollars:{
       key2:1,
       key3:1,
-      key4:1
-      names:1,
+      key4:1,
+      names:1
     }
     }
   }
