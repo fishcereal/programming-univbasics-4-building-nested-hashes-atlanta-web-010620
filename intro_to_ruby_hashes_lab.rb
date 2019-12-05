@@ -33,7 +33,7 @@ def monopoly_with_third_tier
       one_piece_owned:25
     },
       names:{
-      key2:1,
+      reading_railroad: {},
       key3:1,
       key4:1,
       key1:2
